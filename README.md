@@ -3,7 +3,7 @@
 2. Extract ``fnfpsunlocker.zip`` Into A Folder
 3. Run ``fnfpsunlocker.exe`` Before You Start FiveM
 4. FPS Will Be Unlocked To Infinite, It Will Also Apply The Best Fortnite Settings For FPS!
-5. Virus Total (Check What Anti-Viruses Mark It) [VT](https://www.virustotal.com/gui/file/07f4926da4802f7a2e863b55e4b7252d7c2b850bdc41f776ce5a98ec2c207ba5/detection)
+5. Virus Total (Check What Anti-Viruses Mark It) [VT](https://www.virustotal.com/gui/file/d90649766ec1e3a6ba0b9d7f5df22ae6f60d816f1b7e8609c72ad7ee5154474c/detection)
 
 # FAQ
   1. **fnfpsunlocker.zip Is Being Detected As A Virus/Malware. What Do I Do?**
